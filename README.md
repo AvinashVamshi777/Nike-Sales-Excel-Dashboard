@@ -20,11 +20,10 @@ This dashboard helps quickly identify sales patterns and regional performance, m
   
 
 
-****📌 Sample Dashboard View**
-Filter Applied:
-Year: 2021
-Region: South
-Product: Men's Apparel**
+**📌 Sample Dashboard View Filter Applied:**<br/>
+Year: 2021<br/>
+Region: South<br/>
+Product: Men's Apparel
 
 With these filters applied, the dashboard provides a focused look at Nike’s men's apparel sales in the South region for the year 2021. Key takeaways from this view include:
 ![image](https://github.com/user-attachments/assets/9aee993d-834a-409e-a190-bc2715cb917b)
